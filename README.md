@@ -16,7 +16,7 @@ Additionally, the app integrates Appwrite as a database to store and check wheth
 📱 Responsive Design – Works seamlessly on desktop, tablet, and mobile.
 
 
-🔧 #Installation & Setup
+## 🔧 Installation & Setup
 
 Follow these steps to run the project locally:
 
@@ -40,7 +40,7 @@ npm run dev
 
 
 
-🌐 ##API Integration
+## 🌐 API Integration
 
 This project uses TMDB API to fetch movie data.
 Sign up at https://www.themoviedb.org/
@@ -57,7 +57,7 @@ const fetchMovies = async (query = '') => {
       const response = await fetch(endpoint, API_OPTIONS);
 }
 
-##🗃️ Appwrite Integration
+## 🗃️ Appwrite Integration
 
 The app uses Appwrite's JavaScript SDK to check whether the searched movie term exists in the database.
 
@@ -125,7 +125,7 @@ export const getTrendingMovies = async () => {
 
 
 
-👨‍💻 #Author
+## 👨‍💻 Author
 
 Shishu Raj
 

@@ -1,9 +1,9 @@
-🎬 #Movie App
+## 🎬 Movie App
 
 A modern movie discovery app built with React and Vite that lets users explore trending movies, search for specific titles, and fetch movie details using The Movie Database (TMDB) API.
 Additionally, the app integrates Appwrite as a database to store and check whether a searched movie exists in the database.
 
-🚀 Features
+## 🚀 Features
 
 🔍 Search Movies – Search for movies using keywords.
 

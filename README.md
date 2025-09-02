@@ -1,4 +1,4 @@
-#🎬 Movie App
+🎬 #Movie App
 
 A modern movie discovery app built with React and Vite that lets users explore trending movies, search for specific titles, and fetch movie details using The Movie Database (TMDB) API.
 Additionally, the app integrates Appwrite as a database to store and check whether a searched movie exists in the database.
@@ -16,7 +16,7 @@ Additionally, the app integrates Appwrite as a database to store and check wheth
 📱 Responsive Design – Works seamlessly on desktop, tablet, and mobile.
 
 
-🔧 Installation & Setup
+🔧 #Installation & Setup
 
 Follow these steps to run the project locally:
 
@@ -40,7 +40,7 @@ npm run dev
 
 
 
-#🌐 API Integration
+🌐 ##API Integration
 
 This project uses TMDB API to fetch movie data.
 Sign up at https://www.themoviedb.org/
@@ -125,7 +125,7 @@ export const getTrendingMovies = async () => {
 
 
 
-👨‍💻 Author
+👨‍💻 #Author
 
 Shishu Raj
 
